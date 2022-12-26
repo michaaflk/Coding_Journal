@@ -4,15 +4,6 @@
 # Robot Barista
 
 
-# Ep3
-
-# name = "Flik"---- string
-
-# age = 31 ---- integer
-
-# actual_age = 31.25 ----float
-
-
 print("Hello, welcome to Kings`s coffee!")
 
 
